@@ -1,5 +1,5 @@
-# larduino
-淘宝链接 https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-17441495635.442.188462ecjVJJPk&id=543429216691
+# STM32F103C8T6开发板
+淘宝链接 https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17441495625.9.717a5eabhMDW6W&id=569832317230
 公司网址 www.moguzn.com
 
 蘑菇智能科技 专业设计 远程控制数据采集，报警器
